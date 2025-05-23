@@ -1,0 +1,13 @@
+C:\Users\video\Desktop\UserInterfaceDemo\obj\Debug\UserInterfaceDemo.csproj.AssemblyReference.cache
+C:\Users\video\Desktop\UserInterfaceDemo\obj\Debug\UserInterfaceDemo.Form1.resources
+C:\Users\video\Desktop\UserInterfaceDemo\obj\Debug\UserInterfaceDemo.Properties.Resources.resources
+C:\Users\video\Desktop\UserInterfaceDemo\obj\Debug\UserInterfaceDemo.csproj.GenerateResource.cache
+C:\Users\video\Desktop\UserInterfaceDemo\obj\Debug\UserInterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\video\Desktop\UserInterfaceDemo\bin\Debug\UserInterfaceDemo.exe.config
+C:\Users\video\Desktop\UserInterfaceDemo\bin\Debug\UserInterfaceDemo.exe
+C:\Users\video\Desktop\UserInterfaceDemo\bin\Debug\UserInterfaceDemo.pdb
+C:\Users\video\Desktop\UserInterfaceDemo\obj\Debug\UserInterfaceDemo.exe
+C:\Users\video\Desktop\UserInterfaceDemo\obj\Debug\UserInterfaceDemo.pdb
+C:\Users\video\Desktop\UserInterfaceDemo\bin\Debug\lkt-US\UserInterfaceDemo.resources.dll
+C:\Users\video\Desktop\UserInterfaceDemo\obj\Debug\UserInterfaceDemo.Form1.lkt-US.resources
+C:\Users\video\Desktop\UserInterfaceDemo\obj\Debug\lkt-US\UserInterfaceDemo.resources.dll
